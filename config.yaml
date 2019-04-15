@@ -2,10 +2,6 @@
 
 debug: true
 
-i18n: fr
-languages:
-  en: English
-
 lokalize:
     importkeys: false,
     publicAccess: false,
