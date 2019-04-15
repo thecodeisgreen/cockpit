@@ -1,0 +1,14 @@
+# custom config
+
+debug: true
+
+i18n: fr
+languages:
+  en: English
+
+lokalize:
+    importkeys: false,
+    publicAccess: false,
+    translationService:
+        provider: Google // or Yandex
+        apikey: AIzaxxx
