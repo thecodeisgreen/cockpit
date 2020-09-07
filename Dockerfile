@@ -1,4 +1,4 @@
-FROM agentejo/cockpit
+FROM agentejo/cockpit:0.11.0
 
 WORKDIR /var/www/html
 
